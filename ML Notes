@@ -3,14 +3,14 @@ Why ML?
 Technology evolves as the business needs. For eg. in the 1990's we used to work with spreadsheets like excel and csv files to analyse the small data that we collected and make some useful business decisions out of it.
  Then as the data grew big we developed tools like MySQL which uses the SQL language to query the results out of the collected data. But in the 20's the companies like Google, Facebook and Amazon started generating huge amounts of data, why ? because they developed tools like socialMedia sites, e-commerce websites, Email clients etc. And these tools are generating huge amounts of data every single day  ~ terabytes of data each day often called Big Data.
  
- DATE- 13-07-20 8:00 PM
+c3 DATE- 13-07-20 8:00 PM
 1. TYPES OF DATA
 2. EVALUATION (WHAT DEFINES SUCCESS FOR US)
 3. FEATURES (WHAT WE ALREADY KNOW ABOUT THE DATA)
 4. TYPES OF FEATURES
 
 
- DATE- 14-07-20 8:00 PM
+ c4 DATE- 14-07-20 8:00 PM
  1. MODELLING
  2. 3 SETS (TRAINING, VALIDATION, TEST SPLITS)
  3. GENERALIZATION
@@ -18,3 +18,9 @@ Technology evolves as the business needs. For eg. in the 1990's we used to work 
  5. TUNING A MODEL
  6. HYPER PARAMETERS
  
+c5 DATE- 15-07-20 10:39 AM
+1. COMPARISON
+2. OVERFITTING AND UNDERFITTING
+3. DATA LEAKAGE AND DATA MISMATCH
+4. EXPERIMENTATION
+5. TOOLS (PANDA, TF, XGBOOST ETC)
